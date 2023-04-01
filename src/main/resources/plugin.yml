@@ -2,6 +2,7 @@ name: NoPhantom
 version: '${projectVersion}'
 main: net.okocraft.nophantom.Main
 api-version: 1.19
+folia-supported: true
 permissions:
   nophantom.denyspawn:
     default: false
