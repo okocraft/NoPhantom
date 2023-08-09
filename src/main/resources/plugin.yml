@@ -6,3 +6,5 @@ folia-supported: true
 permissions:
   nophantom.denyspawn:
     default: false
+  nophantom.denyspawn.multi:
+    default: false
